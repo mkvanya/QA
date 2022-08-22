@@ -6,9 +6,11 @@
 ТЗ №2
 1) Ссылка на тест-кейсы для вопроса номер 1 по техническому заданию от компании Ред Лаб: https://docs.google.com/spreadsheets/d/1VYC8G3ReRRzMeARrASHp5LXU1H6ScVX92BDf7fO9bLI/edit?usp=sharing
 2) Ответ на второй вопрос по техническому заданию от компании Ред Лаб: 
+
 SELECT *
 FROM A INNER JOIN Б
 ON A.значения = Б.значения
+
 |1 - 1|
 |2 - 2|
 |3 - 3|
